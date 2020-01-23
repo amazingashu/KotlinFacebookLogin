@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">KotlinFacebookLogin</string>
+    <string name="facebook_app_id">720741351788994</string>
+    <string name="fb_login_protocol_scheme">fb720741351788994</string>
+
+
+</resources>
